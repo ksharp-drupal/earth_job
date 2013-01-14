@@ -1,0 +1,3 @@
+<?php
+
+include_once('earth_job_posting.features.inc');
